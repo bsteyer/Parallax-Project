@@ -1,0 +1,28 @@
+.parallax {
+  background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/cute-tiger-cub-enrique-mendez.jpg);
+  height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 100px;
+}
+}
+.p-style {
+  padding-top: 600px;
+}
+.text-style {
+  margin-top: 100px;
+  background-color: orange;
+   
+}
+p {
+  font-size: 20px;
+}
+.div-style {
+  text-align: text-bottom;
+}
+
+.div-style {
+  margin-top: 800px;
+}
